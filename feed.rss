@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>断书</title>
-        <link>https://duanshu.org</link>
+        <link>https://srtb.cc</link>
         <description></description>
-        <lastBuildDate>Mon, 02 Feb 2026 04:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 04:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2016-present, 断书</copyright>
         <item>
             <title><![CDATA[《F1：狂飙飞车》观后感]]></title>
-            <link>https://duanshu.org/impression/movie/F1-The-Movie/</link>
-            <guid isPermaLink="false">https://duanshu.org/impression/movie/F1-The-Movie/</guid>
+            <link>https://srtb.cc/impression/movie/F1-The-Movie/</link>
+            <guid isPermaLink="false">https://srtb.cc/impression/movie/F1-The-Movie/</guid>
             <pubDate>Sat, 12 Jul 2025 11:06:04 GMT</pubDate>
             <description><![CDATA[《F1：狂飙飞车》观后感
 本来这篇观后感应该在上周就写的，但是看完之后因为各种原因，当然主要是因为我的拖延症，拖到了现在。
@@ -33,8 +33,8 @@
         </item>
         <item>
             <title><![CDATA[关于我]]></title>
-            <link>https://duanshu.org/about/</link>
-            <guid isPermaLink="false">https://duanshu.org/about/</guid>
+            <link>https://srtb.cc/about/</link>
+            <guid isPermaLink="false">https://srtb.cc/about/</guid>
             <pubDate>Fri, 04 Jul 2025 20:04:32 GMT</pubDate>
             <description><![CDATA[
 # 关于我
@@ -93,8 +93,8 @@
         </item>
         <item>
             <title><![CDATA[登山林记]]></title>
-            <link>https://duanshu.org/article/dengshanlinji/</link>
-            <guid isPermaLink="false">https://duanshu.org/article/dengshanlinji/</guid>
+            <link>https://srtb.cc/article/dengshanlinji/</link>
+            <guid isPermaLink="false">https://srtb.cc/article/dengshanlinji/</guid>
             <pubDate>Sun, 23 Feb 2025 01:25:05 GMT</pubDate>
             <description><![CDATA[人总是走着走着就散了。一个无聊的初中生文笔的记叙文。当然，我想写的是悬疑或者鬼故事？总之写不出来想要的效果。
 &lt;!--more--
@@ -192,8 +192,8 @@
         </item>
         <item>
             <title><![CDATA[deepseek本地部署]]></title>
-            <link>https://duanshu.org/software/deepseek/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/deepseek/</guid>
+            <link>https://srtb.cc/software/deepseek/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/deepseek/</guid>
             <pubDate>Sun, 09 Feb 2025 16:10:28 GMT</pubDate>
             <description><![CDATA[deepseek本地部署
  安装ollama
@@ -219,7 +219,7 @@ ollama官网
 <h3 id="ollama" tabindex="-1">ollama <a class="header-anchor" href="#ollama" aria-label="Permalink to &quot;ollama&quot;"></a></h3>
 <p>访问<a href="https://ollama.com/library/deepseek-r1" target="_blank" rel="noreferrer">ollama的deepseek模型网址</a></p>
 <p>选择合适的模型大小，然后复制代码，位置如图所示</p>
-<p><img src="https://duanshu.org/assets/000229.D7yIfv48.png" alt="示例"></p>
+<p><img src="https://srtb.cc/assets/000229.D7yIfv48.png" alt="示例"></p>
 <p>在终端运行</p>
 <div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span>ollama run deepseek-r1:14b</span></span></code></pre>
 </div><p>完成后已经在终端可用，输入</p>
@@ -229,14 +229,14 @@ ollama官网
 <p>打开chatbox，选择本地模型，模型提供方选择<code>OLLAMA API</code>，上下文的消息数量上限选择不限制，点击保存。</p>
 <h2 id="完工" tabindex="-1">完工 <a class="header-anchor" href="#完工" aria-label="Permalink to &quot;完工&quot;"></a></h2>
 <p>完工截图</p>
-<p><img src="https://duanshu.org/assets/000820.CKn3hSjc.png" alt="完工截图"></p>
+<p><img src="https://srtb.cc/assets/000820.CKn3hSjc.png" alt="完工截图"></p>
 ]]></content:encoded>
-            <enclosure url="https://duanshu.org/assets/000229.D7yIfv48.png" length="0" type="image/png"/>
+            <enclosure url="https://srtb.cc/assets/000229.D7yIfv48.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[王昌龄《送柴侍御》读后感]]></title>
-            <link>https://duanshu.org/impression/shi/wcl-scsy/</link>
-            <guid isPermaLink="false">https://duanshu.org/impression/shi/wcl-scsy/</guid>
+            <link>https://srtb.cc/impression/shi/wcl-scsy/</link>
+            <guid isPermaLink="false">https://srtb.cc/impression/shi/wcl-scsy/</guid>
             <pubDate>Tue, 04 Feb 2025 08:34:29 GMT</pubDate>
             <description><![CDATA[王昌龄《送柴侍御》读后感
 首先附上全文。
@@ -259,8 +259,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[李白《客中作》读后感]]></title>
-            <link>https://duanshu.org/impression/shi/lb-kzz/</link>
-            <guid isPermaLink="false">https://duanshu.org/impression/shi/lb-kzz/</guid>
+            <link>https://srtb.cc/impression/shi/lb-kzz/</link>
+            <guid isPermaLink="false">https://srtb.cc/impression/shi/lb-kzz/</guid>
             <pubDate>Tue, 04 Feb 2025 07:08:55 GMT</pubDate>
             <description><![CDATA[李白《客中作》读后感
 首先附上全文。
@@ -284,8 +284,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[F1 2024赛年观赛总结]]></title>
-            <link>https://duanshu.org/blog/posts/F1-2024-summary/</link>
-            <guid isPermaLink="false">https://duanshu.org/blog/posts/F1-2024-summary/</guid>
+            <link>https://srtb.cc/blog/posts/F1-2024-summary/</link>
+            <guid isPermaLink="false">https://srtb.cc/blog/posts/F1-2024-summary/</guid>
             <pubDate>Tue, 28 Jan 2025 12:06:53 GMT</pubDate>
             <description><![CDATA[F1 2024赛年观赛总结
 因为2023赛季F1片头，真正开始关注并观看F1比赛。去年入坑看了半年，今年看了一整年。从三月的巴林到十二月的阿布扎比，本赛季可以说是近几年来最精彩的赛季。
@@ -311,8 +311,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[新年除门上旧胶]]></title>
-            <link>https://duanshu.org/blog/posts/chujiao/</link>
-            <guid isPermaLink="false">https://duanshu.org/blog/posts/chujiao/</guid>
+            <link>https://srtb.cc/blog/posts/chujiao/</link>
+            <guid isPermaLink="false">https://srtb.cc/blog/posts/chujiao/</guid>
             <pubDate>Tue, 28 Jan 2025 12:06:53 GMT</pubDate>
             <description><![CDATA[新年除门上旧胶
 今年还是日常的拖延症发作，除夕这天才开始清洁门窗。窗户的清洁没什么好说的，但是这个门还是花了点功夫的。
@@ -330,8 +330,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[《道德经》第4章读后感]]></title>
-            <link>https://duanshu.org/impression/daodejing/04/</link>
-            <guid isPermaLink="false">https://duanshu.org/impression/daodejing/04/</guid>
+            <link>https://srtb.cc/impression/daodejing/04/</link>
+            <guid isPermaLink="false">https://srtb.cc/impression/daodejing/04/</guid>
             <pubDate>Mon, 27 Jan 2025 14:21:50 GMT</pubDate>
             <description><![CDATA[《道德经》第4章读后感
 首先附上全文。
@@ -354,8 +354,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[《亚刻奥特曼》观后感]]></title>
-            <link>https://duanshu.org/impression/teshe/ultraman-arc/</link>
-            <guid isPermaLink="false">https://duanshu.org/impression/teshe/ultraman-arc/</guid>
+            <link>https://srtb.cc/impression/teshe/ultraman-arc/</link>
+            <guid isPermaLink="false">https://srtb.cc/impression/teshe/ultraman-arc/</guid>
             <pubDate>Sun, 26 Jan 2025 12:52:58 GMT</pubDate>
             <description><![CDATA[《亚刻奥特曼》观后感
 亚刻奥特曼完结一周了，作为一部连载了半年的半年番，它好像留下了什么又好像什么都没留下。嗯，它还是别留下吧。反正不是一部好剧。
@@ -384,8 +384,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[《道德经》第13章读后感]]></title>
-            <link>https://duanshu.org/impression/daodejing/13/</link>
-            <guid isPermaLink="false">https://duanshu.org/impression/daodejing/13/</guid>
+            <link>https://srtb.cc/impression/daodejing/13/</link>
+            <guid isPermaLink="false">https://srtb.cc/impression/daodejing/13/</guid>
             <pubDate>Sat, 25 Jan 2025 14:46:32 GMT</pubDate>
             <description><![CDATA[《道德经》第13章读后感
 首先附上全文。
@@ -406,8 +406,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[《道德经》第20章读后感]]></title>
-            <link>https://duanshu.org/impression/daodejing/20/</link>
-            <guid isPermaLink="false">https://duanshu.org/impression/daodejing/20/</guid>
+            <link>https://srtb.cc/impression/daodejing/20/</link>
+            <guid isPermaLink="false">https://srtb.cc/impression/daodejing/20/</guid>
             <pubDate>Fri, 24 Jan 2025 15:41:42 GMT</pubDate>
             <description><![CDATA[《道德经》第20章读后感
 首先附上全文。
@@ -425,8 +425,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[辛弃疾《木兰花慢·可怜今夕月》读后感]]></title>
-            <link>https://duanshu.org/impression/ci/xqj-mlhm-kljxy/</link>
-            <guid isPermaLink="false">https://duanshu.org/impression/ci/xqj-mlhm-kljxy/</guid>
+            <link>https://srtb.cc/impression/ci/xqj-mlhm-kljxy/</link>
+            <guid isPermaLink="false">https://srtb.cc/impression/ci/xqj-mlhm-kljxy/</guid>
             <pubDate>Thu, 23 Jan 2025 12:33:18 GMT</pubDate>
             <description><![CDATA[辛弃疾《木兰花慢·可怜今夕月》读后感
  全文
@@ -448,8 +448,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[部署vitepress]]></title>
-            <link>https://duanshu.org/software/vitepress/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/vitepress/</guid>
+            <link>https://srtb.cc/software/vitepress/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/vitepress/</guid>
             <pubDate>Thu, 23 Jan 2025 09:42:11 GMT</pubDate>
             <description><![CDATA[部署vitepress
  将vitepress部署在gitlab pages
@@ -570,8 +570,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[Windows自定义文件夹样式]]></title>
-            <link>https://duanshu.org/system/windows/desktop-ini/</link>
-            <guid isPermaLink="false">https://duanshu.org/system/windows/desktop-ini/</guid>
+            <link>https://srtb.cc/system/windows/desktop-ini/</link>
+            <guid isPermaLink="false">https://srtb.cc/system/windows/desktop-ini/</guid>
             <pubDate>Wed, 22 Jan 2025 16:36:43 GMT</pubDate>
             <description><![CDATA[Windows自定义文件夹样式
  设置文件夹别名
@@ -593,8 +593,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[辛弃疾《鹧鸪天·代人赋》读后感]]></title>
-            <link>https://duanshu.org/impression/ci/xqj-zgt-drf/</link>
-            <guid isPermaLink="false">https://duanshu.org/impression/ci/xqj-zgt-drf/</guid>
+            <link>https://srtb.cc/impression/ci/xqj-zgt-drf/</link>
+            <guid isPermaLink="false">https://srtb.cc/impression/ci/xqj-zgt-drf/</guid>
             <pubDate>Wed, 22 Jan 2025 11:22:28 GMT</pubDate>
             <description><![CDATA[辛弃疾《鹧鸪天·代人赋》读后感
 首先附上全文。
@@ -621,8 +621,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[博客搭建方案选择的心路历程]]></title>
-            <link>https://duanshu.org/blog/posts/blog-system-choice/</link>
-            <guid isPermaLink="false">https://duanshu.org/blog/posts/blog-system-choice/</guid>
+            <link>https://srtb.cc/blog/posts/blog-system-choice/</link>
+            <guid isPermaLink="false">https://srtb.cc/blog/posts/blog-system-choice/</guid>
             <pubDate>Sat, 18 Jan 2025 18:36:22 GMT</pubDate>
             <description><![CDATA[博客搭建方案选择的心路历程
 在折腾一圈hexo，wordpress，typecho，hugo后，我选择用回hexo。本篇将叙述一下作此选择的理由以及介绍一下目前使用的方案。
@@ -660,8 +660,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[使用内网穿透为家用网络套上公网IP]]></title>
-            <link>https://duanshu.org/blog/posts/frp-ip/</link>
-            <guid isPermaLink="false">https://duanshu.org/blog/posts/frp-ip/</guid>
+            <link>https://srtb.cc/blog/posts/frp-ip/</link>
+            <guid isPermaLink="false">https://srtb.cc/blog/posts/frp-ip/</guid>
             <pubDate>Sat, 18 Jan 2025 18:36:22 GMT</pubDate>
             <description><![CDATA[使用内网穿透为家用网络套上公网IP
 找联通要动态公网IP无果。配置高的云服务器很贵。稳定的内网穿透服务不便宜，便宜的内网穿透服务不稳定，穿透出去的端口对指定固定端口的服务不友好甚至用不了（如teams]]></description>
@@ -674,8 +674,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[极不靠谱的梅菜扣肉菜谱]]></title>
-            <link>https://duanshu.org/blog/cookbooks/meicaikourou/</link>
-            <guid isPermaLink="false">https://duanshu.org/blog/cookbooks/meicaikourou/</guid>
+            <link>https://srtb.cc/blog/cookbooks/meicaikourou/</link>
+            <guid isPermaLink="false">https://srtb.cc/blog/cookbooks/meicaikourou/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[极不靠谱的梅菜扣肉菜谱
  前言
@@ -706,8 +706,8 @@ ollama官网
         </item>
         <item>
             <title><![CDATA[Qt编写的简易计算器]]></title>
-            <link>https://duanshu.org/dev/calculator/</link>
-            <guid isPermaLink="false">https://duanshu.org/dev/calculator/</guid>
+            <link>https://srtb.cc/dev/calculator/</link>
+            <guid isPermaLink="false">https://srtb.cc/dev/calculator/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Qt(C++)编写的简易计算器
  前言
@@ -721,7 +721,7 @@ ollama官网
 </div><p>新建Qt Widgets 应用，项目名称Calculator，基类选择GWidget，类名MyWidget。</p>
 <h2 id="界面" tabindex="-1">界面 <a class="header-anchor" href="#界面" aria-label="Permalink to &quot;界面&quot;"></a></h2>
 <p>首先是页面，直接拖拖拖，没用栅格，先垂直再水平布局了，改了一点参数，解决问题。</p>
-<p><img src="https://duanshu.org/assets/1497535283.B5zOZsHR.png" alt="image.png"></p>
+<p><img src="https://srtb.cc/assets/1497535283.B5zOZsHR.png" alt="image.png"></p>
 <h2 id="代码" tabindex="-1">代码 <a class="header-anchor" href="#代码" aria-label="Permalink to &quot;代码&quot;"></a></h2>
 <p>编写信号和槽，并代码实现计算器功能</p>
 <p>mywidget.h 最终更改如下：</p>
@@ -1272,16 +1272,16 @@ ollama官网
 <span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">TEMPLATE</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> app</span></span></code></pre>
 </div><h2 id="成品" tabindex="-1">成品 <a class="header-anchor" href="#成品" aria-label="Permalink to &quot;成品&quot;"></a></h2>
 <p>放两张效果图</p>
-<p><img src="https://duanshu.org/assets/3337071113.DPANkmPI.png" alt="image.png"></p>
-<p><img src="https://duanshu.org/assets/3685059086.BjypBez-.gif" alt="image.gif"></p>
+<p><img src="https://srtb.cc/assets/3337071113.DPANkmPI.png" alt="image.png"></p>
+<p><img src="https://srtb.cc/assets/3685059086.BjypBez-.gif" alt="image.gif"></p>
 <p>最后附上所有文件的资源链接：<a href="https://download.csdn.net/download/alfa_jin/11790101" target="_blank" rel="noreferrer">资源链接</a></p>
 ]]></content:encoded>
-            <enclosure url="https://duanshu.org/assets/1497535283.B5zOZsHR.png" length="0" type="image/png"/>
+            <enclosure url="https://srtb.cc/assets/1497535283.B5zOZsHR.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Python快速开始]]></title>
-            <link>https://duanshu.org/languages/python/</link>
-            <guid isPermaLink="false">https://duanshu.org/languages/python/</guid>
+            <link>https://srtb.cc/languages/python/</link>
+            <guid isPermaLink="false">https://srtb.cc/languages/python/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Python快速开始
  更换pip源
@@ -1321,8 +1321,8 @@ lwcaicsdn的博客]]></description>
         </item>
         <item>
             <title><![CDATA[fonttools快速开始]]></title>
-            <link>https://duanshu.org/languages/python/packages/fonttools/</link>
-            <guid isPermaLink="false">https://duanshu.org/languages/python/packages/fonttools/</guid>
+            <link>https://srtb.cc/languages/python/packages/fonttools/</link>
+            <guid isPermaLink="false">https://srtb.cc/languages/python/packages/fonttools/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[fonttools快速开始
  原文
@@ -1346,8 +1346,8 @@ woff2的字体后缀名为woff2
         </item>
         <item>
             <title><![CDATA[pydub快速开始]]></title>
-            <link>https://duanshu.org/languages/python/packages/pydub/</link>
-            <guid isPermaLink="false">https://duanshu.org/languages/python/packages/pydub/</guid>
+            <link>https://srtb.cc/languages/python/packages/pydub/</link>
+            <guid isPermaLink="false">https://srtb.cc/languages/python/packages/pydub/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[pydub快速开始
  参考原文
@@ -1380,8 +1380,8 @@ ffmpeg官网链接]]></description>
         </item>
         <item>
             <title><![CDATA[xlwings快速开始]]></title>
-            <link>https://duanshu.org/languages/python/packages/xlwings/</link>
-            <guid isPermaLink="false">https://duanshu.org/languages/python/packages/xlwings/</guid>
+            <link>https://srtb.cc/languages/python/packages/xlwings/</link>
+            <guid isPermaLink="false">https://srtb.cc/languages/python/packages/xlwings/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[xlwings快速开始
  参考原文
@@ -1473,8 +1473,8 @@ xlwings中文文档
         </item>
         <item>
             <title><![CDATA[Python虚拟环境]]></title>
-            <link>https://duanshu.org/languages/python/virtualenv/</link>
-            <guid isPermaLink="false">https://duanshu.org/languages/python/virtualenv/</guid>
+            <link>https://srtb.cc/languages/python/virtualenv/</link>
+            <guid isPermaLink="false">https://srtb.cc/languages/python/virtualenv/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Python虚拟环境
  安装
@@ -1500,8 +1500,8 @@ virtualenv pyweb
         </item>
         <item>
             <title><![CDATA[frp快速开始]]></title>
-            <link>https://duanshu.org/software/frp/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/frp/</guid>
+            <link>https://srtb.cc/software/frp/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/frp/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[frp快速开始
  服务器端
@@ -1593,8 +1593,8 @@ sudo mkdir -p]]></description>
         </item>
         <item>
             <title><![CDATA[Git服务器搭建]]></title>
-            <link>https://duanshu.org/software/git/server/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/git/server/</guid>
+            <link>https://srtb.cc/software/git/server/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/git/server/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Git服务器搭建
  前言
@@ -1642,8 +1642,8 @@ mkdir .ssh]]></description>
         </item>
         <item>
             <title><![CDATA[Git用户端配置]]></title>
-            <link>https://duanshu.org/software/git/user/config/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/git/user/config/</guid>
+            <link>https://srtb.cc/software/git/user/config/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/git/user/config/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Git用户端配置
  全局信息配置
@@ -1664,8 +1664,8 @@ git config --global user.emai]]></description>
         </item>
         <item>
             <title><![CDATA[Git忽略文件]]></title>
-            <link>https://duanshu.org/software/git/user/gitignore/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/git/user/gitignore/</guid>
+            <link>https://srtb.cc/software/git/user/gitignore/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/git/user/gitignore/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Git忽略文件
  .gitignore文件
@@ -1699,8 +1699,8 @@ _mult]]></description>
         </item>
         <item>
             <title><![CDATA[Git用户端快速开始]]></title>
-            <link>https://duanshu.org/software/git/user/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/git/user/</guid>
+            <link>https://srtb.cc/software/git/user/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/git/user/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Git用户端快速开始
  安装Git
@@ -1720,8 +1720,8 @@ _mult]]></description>
         </item>
         <item>
             <title><![CDATA[Git常用命令]]></title>
-            <link>https://duanshu.org/software/git/user/use/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/git/user/use/</guid>
+            <link>https://srtb.cc/software/git/user/use/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/git/user/use/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Git常用命令
  基本git命令
@@ -1832,8 +1832,8 @@ git config --global --a]]></description>
         </item>
         <item>
             <title><![CDATA[在Windows Terminal中使用Git]]></title>
-            <link>https://duanshu.org/software/git/user/windows-terminal/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/git/user/windows-terminal/</guid>
+            <link>https://srtb.cc/software/git/user/windows-terminal/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/git/user/windows-terminal/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[在Windows Terminal中使用Git
  参考文档
@@ -1854,8 +1854,8 @@ vim ~]]></description>
         </item>
         <item>
             <title><![CDATA[搭建Halo博客]]></title>
-            <link>https://duanshu.org/software/halo/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/halo/</guid>
+            <link>https://srtb.cc/software/halo/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/halo/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[简单搭建Halo博客
  前言
@@ -2020,8 +2020,8 @@ vim ~]]></description>
         </item>
         <item>
             <title><![CDATA[Hexo基于Git的备份和恢复方法]]></title>
-            <link>https://duanshu.org/software/hexo/backup/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/hexo/backup/</guid>
+            <link>https://srtb.cc/software/hexo/backup/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/hexo/backup/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Hexo基于Git的备份和恢复方法
  备份
@@ -2087,8 +2087,8 @@ vim ~]]></description>
         </item>
         <item>
             <title><![CDATA[Hexo隐藏文档]]></title>
-            <link>https://duanshu.org/software/hexo/config/hide-pages/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/hexo/config/hide-pages/</guid>
+            <link>https://srtb.cc/software/hexo/config/hide-pages/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/hexo/config/hide-pages/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Hexo隐藏文档
  前言
@@ -2135,8 +2135,8 @@ npm install hexo-generat]]></description>
         </item>
         <item>
             <title><![CDATA[使用VSCode编辑时插入图片]]></title>
-            <link>https://duanshu.org/software/hexo/edit/insert-image/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/hexo/edit/insert-image/</guid>
+            <link>https://srtb.cc/software/hexo/edit/insert-image/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/hexo/edit/insert-image/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[使用VSCode编辑时插入图片
  起因
@@ -2180,8 +2180,8 @@ npm install hexo-generat]]></description>
         </item>
         <item>
             <title><![CDATA[Hexo快速开始]]></title>
-            <link>https://duanshu.org/software/hexo/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/hexo/</guid>
+            <link>https://srtb.cc/software/hexo/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/hexo/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Hexo快速开始
  前言
@@ -2306,8 +2306,8 @@ npm install hexo-generat]]></description>
         </item>
         <item>
             <title><![CDATA[Fluid隐藏文档]]></title>
-            <link>https://duanshu.org/software/hexo/themes/fluid/config/hide-page/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/hexo/themes/fluid/config/hide-page/</guid>
+            <link>https://srtb.cc/software/hexo/themes/fluid/config/hide-page/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/hexo/themes/fluid/config/hide-page/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[
 # Fluid隐藏文档
@@ -2348,8 +2348,8 @@ Fluid主题已集成此功能：[官方文档](https://fluid-dev.github.io/hexo-
         </item>
         <item>
             <title><![CDATA[Fluid配置]]></title>
-            <link>https://duanshu.org/software/hexo/themes/fluid/config/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/hexo/themes/fluid/config/</guid>
+            <link>https://srtb.cc/software/hexo/themes/fluid/config/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/hexo/themes/fluid/config/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Fluid配置文件
 在博客根目录新建 `_config.fluid.yml`文件，将主题配置文件 `.\node_modules\hexo-theme-fluid\_config.yml`里的内容复制]]></description>
@@ -2360,8 +2360,8 @@ Fluid主题已集成此功能：[官方文档](https://fluid-dev.github.io/hexo-
         </item>
         <item>
             <title><![CDATA[Fluid标题字号调整]]></title>
-            <link>https://duanshu.org/software/hexo/themes/fluid/config/title-font-size/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/hexo/themes/fluid/config/title-font-size/</guid>
+            <link>https://srtb.cc/software/hexo/themes/fluid/config/title-font-size/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/hexo/themes/fluid/config/title-font-size/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Fluid标题字号调整
 使用Fluid主题自带的自定义 JS / CSS / HTML功能，可以实现非侵入式的自定义CSS。
@@ -2397,8 +2397,8 @@ Fluid主题已集成此功能：[官方文档](https://fluid-dev.github.io/hexo-
         </item>
         <item>
             <title><![CDATA[Fliud快速开始]]></title>
-            <link>https://duanshu.org/software/hexo/themes/fluid/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/hexo/themes/fluid/</guid>
+            <link>https://srtb.cc/software/hexo/themes/fluid/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/hexo/themes/fluid/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Fliud快速开始
  前言
@@ -2417,8 +2417,8 @@ npm install --save hexo-theme]]></description>
         </item>
         <item>
             <title><![CDATA[Maven快速开始]]></title>
-            <link>https://duanshu.org/software/maven/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/maven/</guid>
+            <link>https://srtb.cc/software/maven/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/maven/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Maven快速开始
  Windows
@@ -2454,8 +2454,8 @@ Maven的安装与配置
         </item>
         <item>
             <title><![CDATA[Mysql快速开始]]></title>
-            <link>https://duanshu.org/software/mysql/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/mysql/</guid>
+            <link>https://srtb.cc/software/mysql/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/mysql/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[安装MySQL
  MacOS
@@ -2582,8 +2582,8 @@ v]]></description>
         </item>
         <item>
             <title><![CDATA[nvm安装及使用]]></title>
-            <link>https://duanshu.org/software/nvm/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/nvm/</guid>
+            <link>https://srtb.cc/software/nvm/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/nvm/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[nvm安装及使用
 Windows版nvm快速开始]]></description>
@@ -2593,8 +2593,8 @@ Windows版nvm快速开始]]></description>
         </item>
         <item>
             <title><![CDATA[Nvm快速开始]]></title>
-            <link>https://duanshu.org/software/nvm/windows/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/nvm/windows/</guid>
+            <link>https://srtb.cc/software/nvm/windows/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/nvm/windows/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Nvm快速开始(Windows版)
  安装nvm
@@ -2663,8 +2663,8 @@ nvm-windows下载地址
         </item>
         <item>
             <title><![CDATA[powershell7快速开始]]></title>
-            <link>https://duanshu.org/software/powershell7/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/powershell7/</guid>
+            <link>https://srtb.cc/software/powershell7/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/powershell7/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[powershell7快速开始
  安装
@@ -2728,8 +2728,8 @@ nvm-windows下载地址
         </item>
         <item>
             <title><![CDATA[powershell运行脚本]]></title>
-            <link>https://duanshu.org/software/powershell7/run-shell/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/powershell7/run-shell/</guid>
+            <link>https://srtb.cc/software/powershell7/run-shell/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/powershell7/run-shell/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[powershell运行脚本
 在PowerShell里使用nrm，hexo之类的提示无法运行脚本，解决方法如下：
@@ -2746,8 +2746,8 @@ set-executionpolic]]></description>
         </item>
         <item>
             <title><![CDATA[typecho快速开始]]></title>
-            <link>https://duanshu.org/software/typecho/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/typecho/</guid>
+            <link>https://srtb.cc/software/typecho/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/typecho/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[typecho快速开始
  前言
@@ -2878,8 +2878,8 @@ sudo apt install mariadb-server nginx php php-fpm php]]></description>
         </item>
         <item>
             <title><![CDATA[使用VSCode编写C/C++]]></title>
-            <link>https://duanshu.org/software/vscode/languages/cpp/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/vscode/languages/cpp/</guid>
+            <link>https://srtb.cc/software/vscode/languages/cpp/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/vscode/languages/cpp/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[使用VSCode编写C/C++
  GCC编译器
@@ -2995,8 +2995,8 @@ https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-r]]></descr
         </item>
         <item>
             <title><![CDATA[使用VSCode编写Python]]></title>
-            <link>https://duanshu.org/software/vscode/languages/python/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/vscode/languages/python/</guid>
+            <link>https://srtb.cc/software/vscode/languages/python/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/vscode/languages/python/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[使用VSCode编写Python
  配置
@@ -3030,8 +3030,8 @@ tasks.json文件：
         </item>
         <item>
             <title><![CDATA[ward快速开始]]></title>
-            <link>https://duanshu.org/software/ward/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/ward/</guid>
+            <link>https://srtb.cc/software/ward/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/ward/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[ward快速开始
  说明
@@ -3120,8 +3120,8 @@ wget https://github.com/AntonyLeons/Wa]]></description>
         </item>
         <item>
             <title><![CDATA[zsh快速开始]]></title>
-            <link>https://duanshu.org/software/zsh/</link>
-            <guid isPermaLink="false">https://duanshu.org/software/zsh/</guid>
+            <link>https://srtb.cc/software/zsh/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/zsh/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[zsh快速开始
  安装
@@ -3184,8 +3184,8 @@ sudo apt install zsh
         </item>
         <item>
             <title><![CDATA[Arch安装后的简易配置]]></title>
-            <link>https://duanshu.org/system/arch/config/</link>
-            <guid isPermaLink="false">https://duanshu.org/system/arch/config/</guid>
+            <link>https://srtb.cc/system/arch/config/</link>
+            <guid isPermaLink="false">https://srtb.cc/system/arch/config/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Arch安装后的简易配置
  添加archlinuxcn源
@@ -3277,8 +3277,8 @@ SigLevel]]></description>
         </item>
         <item>
             <title><![CDATA[ArchLinux安装]]></title>
-            <link>https://duanshu.org/system/arch/install/</link>
-            <guid isPermaLink="false">https://duanshu.org/system/arch/install/</guid>
+            <link>https://srtb.cc/system/arch/install/</link>
+            <guid isPermaLink="false">https://srtb.cc/system/arch/install/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[ArchLinux安装
  说明
@@ -3406,8 +3406,8 @@ SigLevel]]></description>
         </item>
         <item>
             <title><![CDATA[Debian使用Wine安装QQ和微信]]></title>
-            <link>https://duanshu.org/system/debian/wechat/</link>
-            <guid isPermaLink="false">https://duanshu.org/system/debian/wechat/</guid>
+            <link>https://srtb.cc/system/debian/wechat/</link>
+            <guid isPermaLink="false">https://srtb.cc/system/debian/wechat/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[Debian使用Wine安装QQ和微信
  前置
@@ -3435,7 +3435,7 @@ sudo apt updat]]></description>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"># 甚至可以不放在当前用户的用户文件夹下（不推荐）</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">WINEPREFIX</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"/home/chen/Wine/.wine/wechat"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> wine</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> winecfg</span></span></code></pre>
 </div><p>应用程序里选择windows7，显示里改为如下配置（屏幕分辨率主要是调节缩放，我是1080P的屏幕，缩放125%就够了，如果你是更高分辨率的屏幕，或者你觉得大小不舒服，请自行调节至你觉得合适的大小）</p>
-<p><img src="https://duanshu.org/assets/1049381467.C74xPHZ-.png" alt="image.png"></p>
+<p><img src="https://srtb.cc/assets/1049381467.C74xPHZ-.png" alt="image.png"></p>
 <h3 id="安装微信" tabindex="-1">安装微信 <a class="header-anchor" href="#安装微信" aria-label="Permalink to &quot;安装微信&quot;"></a></h3>
 <div class="language-bash vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"># "/home/chen/Wine/.wine/wechat"替换为自己的wine容器路径</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"># "./Downloads/WeChatSetup.exe"替换为自己下载的微信安装包存放路径</span></span>
@@ -3489,14 +3489,14 @@ sudo apt updat]]></description>
 <li>刚安装后启动不在状态栏显示小图标（重启一次即可）</li>
 </ol>
 <h2 id="完工截图" tabindex="-1">完工截图 <a class="header-anchor" href="#完工截图" aria-label="Permalink to &quot;完工截图&quot;"></a></h2>
-<p><img src="https://duanshu.org/assets/3604319295.Bzs05ydh.png" alt="image.png"></p>
+<p><img src="https://srtb.cc/assets/3604319295.Bzs05ydh.png" alt="image.png"></p>
 ]]></content:encoded>
-            <enclosure url="https://duanshu.org/assets/1049381467.C74xPHZ-.png" length="0" type="image/png"/>
+            <enclosure url="https://srtb.cc/assets/1049381467.C74xPHZ-.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[联想M73黑苹果Big Sur使用BCM94352HMB网卡的蓝牙问题]]></title>
-            <link>https://duanshu.org/system/macos/BCM94352HMB/</link>
-            <guid isPermaLink="false">https://duanshu.org/system/macos/BCM94352HMB/</guid>
+            <link>https://srtb.cc/system/macos/BCM94352HMB/</link>
+            <guid isPermaLink="false">https://srtb.cc/system/macos/BCM94352HMB/</guid>
             <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
             <description><![CDATA[联想M73黑苹果Big Sur使用BCM94352HMB网卡的蓝牙问题
  起因

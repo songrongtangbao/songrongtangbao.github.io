@@ -1,4 +1,4 @@
-Sitemap: https://duanshu.org/sitemap.xml
+Sitemap: https://srtb.cc/sitemap.xml
 
 User-agent: *
 Disallow: /blog/cross/
