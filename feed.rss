@@ -4,7 +4,7 @@
         <title>松茸汤包</title>
         <link>https://srtb.cc/</link>
         <description></description>
-        <lastBuildDate>Thu, 02 Apr 2026 01:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 02:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2016-present, 松茸汤包</copyright>
@@ -12,11 +12,11 @@
             <title><![CDATA[关于我]]></title>
             <link>https://srtb.cc/about/</link>
             <guid isPermaLink="false">https://srtb.cc/about/</guid>
-            <pubDate>Thu, 02 Apr 2026 01:55:34 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 02:10:10 GMT</pubDate>
             <description><![CDATA[
-<!--
 # 关于我
 
+<!--
 ## “断书”的由来
 
 ~~`断书`本来是我的B站ID，~~
@@ -26,9 +26,8 @@
 ~~但我还挺喜欢的。~~
 
 ]]></description>
-            <content:encoded><![CDATA[<!--
-# 关于我
-
+            <content:encoded><![CDATA[<h1 id="关于我" tabindex="-1">关于我 <a class="header-anchor" href="#关于我" aria-label="Permalink to &quot;关于我&quot;"></a></h1>
+<!--
 ## “断书”的由来
 
 ~~`断书`本来是我的B站ID，~~
