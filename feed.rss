@@ -4,10 +4,24 @@
         <title>松茸汤包</title>
         <link>https://srtb.cc/</link>
         <description></description>
-        <lastBuildDate>Thu, 12 Nov 2026 09:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 06:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2016-present, 松茸汤包</copyright>
+        <item>
+            <title><![CDATA[nvm安装及使用]]></title>
+            <link>https://srtb.cc/software/nvm/</link>
+            <guid isPermaLink="false">https://srtb.cc/software/nvm/</guid>
+            <pubDate>Fri, 13 Nov 2026 06:14:51 GMT</pubDate>
+            <description><![CDATA[node版本管理工具]]></description>
+            <content:encoded><![CDATA[<h1 id="nvm安装及使用" tabindex="-1">nvm安装及使用 <a class="header-anchor" href="#nvm安装及使用" aria-label="Permalink to &quot;nvm安装及使用&quot;"></a></h1>
+<div class="page-catalog">
+<ul>
+<li><a href="/software/nvm/windows/">Nvm快速开始</a></li>
+</ul>
+</div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[关于我]]></title>
             <link>https://srtb.cc/about/</link>
@@ -125,13 +139,7 @@
             <link>https://srtb.cc/software/deepseek/</link>
             <guid isPermaLink="false">https://srtb.cc/software/deepseek/</guid>
             <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[deepseek本地部署
- 安装ollama
- 安装
-ollama官网
-下载安装一路点点点。
- 安装位置
-默认安装在C盘，如需修改到其他盘，可以在`C:\Users\用户名\AppData\Local]]></description>
+            <description><![CDATA[AI对话模型]]></description>
             <content:encoded><![CDATA[<h1 id="deepseek本地部署" tabindex="-1">deepseek本地部署 <a class="header-anchor" href="#deepseek本地部署" aria-label="Permalink to &quot;deepseek本地部署&quot;"></a></h1>
 <h2 id="安装ollama" tabindex="-1">安装ollama <a class="header-anchor" href="#安装ollama" aria-label="Permalink to &quot;安装ollama&quot;"></a></h2>
 <h3 id="安装" tabindex="-1">安装 <a class="header-anchor" href="#安装" aria-label="Permalink to &quot;安装&quot;"></a></h3>
@@ -425,17 +433,6 @@ ollama官网
 <p>勒克莱尔，为自己夺得了摩纳哥的主场冠军，也为法拉利夺得了时隔五年的意大利的主场冠军。考虑到这赛季法拉利整体的竞争力，他本该没什么遗憾，但在最后一站阿布扎比，依然拼尽全力从19发车追到第3，为了仅在理论上可能的车队冠军努力。</p>
 <p>周冠宇，和博塔斯同在索伯三年。连手握多个分站冠军和赛道记录的博塔斯都直言，后悔三年前来到索伯，毁掉了自己的口碑。经历了赛季前两场的希望之后，车和车队一整个赛季都是向下，最终在最后三场，车勉强可以开了。在倒数第二站卡塔尔，最终取得了赛季首个积分，也是索伯车队一整年唯一的积分。不恰当得说，你不知道他这一整年经历了怎样的颠沛流离，才最终能够第八完赛拿到四个积分。如果是维斯塔潘带来的震撼是雨战战神一样的P17到P1，那么周冠宇的震撼是像电影一样的历经磨难最终成功。</p>
 <p>可以确定的是，明年的F1没有中国车手了。还是很希望能看到周冠宇能在明年晚些时候或者2026年回归。不确定的是，明年是否会像今年一样精彩，以及明年我还会不会再看F1。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[nvm安装及使用]]></title>
-            <link>https://srtb.cc/software/nvm/</link>
-            <guid isPermaLink="false">https://srtb.cc/software/nvm/</guid>
-            <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
-            <description><![CDATA[nvm安装及使用
-Windows版nvm快速开始]]></description>
-            <content:encoded><![CDATA[<h1 id="nvm安装及使用" tabindex="-1">nvm安装及使用 <a class="header-anchor" href="#nvm安装及使用" aria-label="Permalink to &quot;nvm安装及使用&quot;"></a></h1>
-<p><a href="./windows/">Windows版nvm快速开始</a></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -1143,16 +1140,7 @@ lwcaicsdn的博客]]></description>
             <link>https://srtb.cc/languages/python/packages/fonttools/</link>
             <guid isPermaLink="false">https://srtb.cc/languages/python/packages/fonttools/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[fonttools快速开始
- 原文
-几个技巧把字体文件压缩到十分之一的体积
- 安装
-```sh
-pip install fonttools
-```
- 使用
-woff2的字体后缀名为woff2
-```s]]></description>
+            <description><![CDATA[字体文件处理]]></description>
             <content:encoded><![CDATA[<h1 id="fonttools快速开始" tabindex="-1">fonttools快速开始 <a class="header-anchor" href="#fonttools快速开始" aria-label="Permalink to &quot;fonttools快速开始&quot;"></a></h1>
 <h2 id="原文" tabindex="-1">原文 <a class="header-anchor" href="#原文" aria-label="Permalink to &quot;原文&quot;"></a></h2>
 <p><a href="https://zhuanlan.zhihu.com/p/577387539" target="_blank" rel="noreferrer">几个技巧把字体文件压缩到十分之一的体积</a></p>
@@ -1168,15 +1156,7 @@ woff2的字体后缀名为woff2
             <link>https://srtb.cc/languages/python/packages/pydub/</link>
             <guid isPermaLink="false">https://srtb.cc/languages/python/packages/pydub/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[pydub快速开始
- 参考原文
-太赞了！Python竟可以轻松实现音频格式无损转换
- 安装
-```
-pip install pydub
-```
-另：本包需要依赖ffmpeg软件。
-ffmpeg官网链接]]></description>
+            <description><![CDATA[音频格式转换]]></description>
             <content:encoded><![CDATA[<h1 id="pydub快速开始" tabindex="-1">pydub快速开始 <a class="header-anchor" href="#pydub快速开始" aria-label="Permalink to &quot;pydub快速开始&quot;"></a></h1>
 <h2 id="参考原文" tabindex="-1">参考原文 <a class="header-anchor" href="#参考原文" aria-label="Permalink to &quot;参考原文&quot;"></a></h2>
 <p><a href="https://www.cnblogs.com/chenlove/p/14839870.html" target="_blank" rel="noreferrer">太赞了！Python竟可以轻松实现音频格式无损转换</a></p>
@@ -1202,13 +1182,7 @@ ffmpeg官网链接]]></description>
             <link>https://srtb.cc/languages/python/packages/xlwings/</link>
             <guid isPermaLink="false">https://srtb.cc/languages/python/packages/xlwings/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[xlwings快速开始
- 参考原文
-xlwings中文文档
- 导包
-使用xlwings包
- 单个单元格
-默认情况下，单个单元格返回为“float”，“unicode”，“None”或“datetime]]></description>
+            <description><![CDATA[表格处理]]></description>
             <content:encoded><![CDATA[<h1 id="xlwings快速开始" tabindex="-1">xlwings快速开始 <a class="header-anchor" href="#xlwings快速开始" aria-label="Permalink to &quot;xlwings快速开始&quot;"></a></h1>
 <h2 id="参考原文" tabindex="-1">参考原文 <a class="header-anchor" href="#参考原文" aria-label="Permalink to &quot;参考原文&quot;"></a></h2>
 <p><a href="https://www.kancloud.cn/gnefnuy/xlwings-docs/1127458" target="_blank" rel="noreferrer">xlwings中文文档</a></p>
@@ -1322,13 +1296,7 @@ virtualenv pyweb
             <link>https://srtb.cc/software/frp/</link>
             <guid isPermaLink="false">https://srtb.cc/software/frp/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[frp快速开始
- 服务器端
-```shell
-wget [下载链接]
-tar -zxvf frp_*.tar.gz
-sudo cp frps /usr/local/bin/
-sudo mkdir -p]]></description>
+            <description><![CDATA[内网穿透工具]]></description>
             <content:encoded><![CDATA[<h1 id="frp快速开始" tabindex="-1">frp快速开始 <a class="header-anchor" href="#frp快速开始" aria-label="Permalink to &quot;frp快速开始&quot;"></a></h1>
 <h2 id="服务器端" tabindex="-1">服务器端 <a class="header-anchor" href="#服务器端" aria-label="Permalink to &quot;服务器端&quot;"></a></h2>
 <div class="language-shell vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">shell</span><pre class="shiki shiki-themes vitesse-light vitesse-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#59873A;--shiki-dark:#80A665">wget</span><span style="--shiki-light:#393A34;--shiki-dark:#DBD7CAEE"> [下载链接]</span></span>
@@ -1676,12 +1644,7 @@ vim ~]]></description>
             <link>https://srtb.cc/software/halo/</link>
             <guid isPermaLink="false">https://srtb.cc/software/halo/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[简单搭建Halo博客
- 前言
-本文测试环境：Debian12。
- 安装Docker
-官方文档：Install Docker Engine on Debian | Docker Docs
- 安装Dock]]></description>
+            <description><![CDATA[博客软件]]></description>
             <content:encoded><![CDATA[<h1 id="简单搭建halo博客" tabindex="-1">简单搭建Halo博客 <a class="header-anchor" href="#简单搭建halo博客" aria-label="Permalink to &quot;简单搭建Halo博客&quot;"></a></h1>
 <h2 id="前言" tabindex="-1">前言 <a class="header-anchor" href="#前言" aria-label="Permalink to &quot;前言&quot;"></a></h2>
 <p>本文测试环境：Debian12。</p>
@@ -2002,9 +1965,7 @@ npm install hexo-generat]]></description>
             <link>https://srtb.cc/software/hexo/</link>
             <guid isPermaLink="false">https://srtb.cc/software/hexo/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hexo快速开始
- 前言
-~~腾讯云服务器和域名闲着也是闲着，想着不如搭个博客玩玩吧，话说回来，这服务器闲了也有一年了吧，笑。另外本篇写的是搭在github上，自己服务器的话配个git仓库就行了，这个]]></description>
+            <description><![CDATA[静态博客生成框架]]></description>
             <content:encoded><![CDATA[<h1 id="hexo快速开始" tabindex="-1">Hexo快速开始 <a class="header-anchor" href="#hexo快速开始" aria-label="Permalink to &quot;Hexo快速开始&quot;"></a></h1>
 <h2 id="前言" tabindex="-1">前言 <a class="header-anchor" href="#前言" aria-label="Permalink to &quot;前言&quot;"></a></h2>
 <p><s>腾讯云服务器和域名闲着也是闲着，想着不如搭个博客玩玩吧，话说回来，这服务器闲了也有一年了吧，笑。另外本篇写的是搭在github上，自己服务器的话配个git仓库就行了，这个后面另写吧。</s></p>
@@ -2239,16 +2200,7 @@ npm install --save hexo-theme]]></description>
             <link>https://srtb.cc/software/maven/</link>
             <guid isPermaLink="false">https://srtb.cc/software/maven/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Maven快速开始
- Windows
- 参考文档
-Maven的安装与配置
- 下载网址
-官方下载地址
- 安装
-环境变量创建`MAVEN_HOME`
- 配置
-创建新文件夹repository，配置仓库位置]]></description>
+            <description><![CDATA[java包管理工具]]></description>
             <content:encoded><![CDATA[<h1 id="maven快速开始" tabindex="-1">Maven快速开始 <a class="header-anchor" href="#maven快速开始" aria-label="Permalink to &quot;Maven快速开始&quot;"></a></h1>
 <h2 id="windows" tabindex="-1">Windows <a class="header-anchor" href="#windows" aria-label="Permalink to &quot;Windows&quot;"></a></h2>
 <h3 id="参考文档" tabindex="-1">参考文档 <a class="header-anchor" href="#参考文档" aria-label="Permalink to &quot;参考文档&quot;"></a></h3>
@@ -2276,17 +2228,7 @@ Maven的安装与配置
             <link>https://srtb.cc/software/mysql/</link>
             <guid isPermaLink="false">https://srtb.cc/software/mysql/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[安装MySQL
- MacOS
- 环境
-使用MacPorts进行安装。
- 安装
-```bash
-sudo port install mysql8-server
-```
- 设置环境变量
-```bash
-v]]></description>
+            <description><![CDATA[数据库]]></description>
             <content:encoded><![CDATA[<h1 id="安装mysql" tabindex="-1">安装MySQL <a class="header-anchor" href="#安装mysql" aria-label="Permalink to &quot;安装MySQL&quot;"></a></h1>
 <h2 id="macos" tabindex="-1">MacOS <a class="header-anchor" href="#macos" aria-label="Permalink to &quot;MacOS&quot;"></a></h2>
 <h3 id="环境" tabindex="-1">环境 <a class="header-anchor" href="#环境" aria-label="Permalink to &quot;环境&quot;"></a></h3>
@@ -2474,13 +2416,7 @@ nvm-windows下载地址
             <link>https://srtb.cc/software/powershell7/</link>
             <guid isPermaLink="false">https://srtb.cc/software/powershell7/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[powershell7快速开始
- 安装
- 官方文档
-从Windows PowerShell 5.1迁移到PowerShell 7
-在Windows上安装PowerShell
- 方式一：使用msi安装
-]]></description>
+            <description><![CDATA[windows的shell]]></description>
             <content:encoded><![CDATA[<h1 id="powershell7快速开始" tabindex="-1">powershell7快速开始 <a class="header-anchor" href="#powershell7快速开始" aria-label="Permalink to &quot;powershell7快速开始&quot;"></a></h1>
 <h2 id="安装" tabindex="-1">安装 <a class="header-anchor" href="#安装" aria-label="Permalink to &quot;安装&quot;"></a></h2>
 <h3 id="官方文档" tabindex="-1">官方文档 <a class="header-anchor" href="#官方文档" aria-label="Permalink to &quot;官方文档&quot;"></a></h3>
@@ -2557,12 +2493,7 @@ set-executionpolic]]></description>
             <link>https://srtb.cc/software/typecho/</link>
             <guid isPermaLink="false">https://srtb.cc/software/typecho/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[typecho快速开始
- 前言
-本文测试环境：Debian11。
- 环境安装
-```bash
-sudo apt install mariadb-server nginx php php-fpm php]]></description>
+            <description><![CDATA[博客软件]]></description>
             <content:encoded><![CDATA[<h1 id="typecho快速开始" tabindex="-1">typecho快速开始 <a class="header-anchor" href="#typecho快速开始" aria-label="Permalink to &quot;typecho快速开始&quot;"></a></h1>
 <h2 id="前言" tabindex="-1">前言 <a class="header-anchor" href="#前言" aria-label="Permalink to &quot;前言&quot;"></a></h2>
 <p>本文测试环境：Debian11。</p>
@@ -2689,9 +2620,7 @@ sudo apt install mariadb-server nginx php php-fpm php]]></description>
             <link>https://srtb.cc/software/vitepress/</link>
             <guid isPermaLink="false">https://srtb.cc/software/vitepress/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[部署vitepress
- 将vitepress部署在gitlab pages
-在vitpress中创建三个文件，然后将viepress整体提交到gitlab，启用gitlab pages和gitlab]]></description>
+            <description><![CDATA[静态文档生成框架]]></description>
             <content:encoded><![CDATA[<h1 id="部署vitepress" tabindex="-1">部署vitepress <a class="header-anchor" href="#部署vitepress" aria-label="Permalink to &quot;部署vitepress&quot;"></a></h1>
 <h2 id="将vitepress部署在gitlab-pages" tabindex="-1">将vitepress部署在gitlab pages <a class="header-anchor" href="#将vitepress部署在gitlab-pages" aria-label="Permalink to &quot;将vitepress部署在gitlab pages&quot;"></a></h2>
 <p>在vitpress中创建三个文件，然后将viepress整体提交到gitlab，启用gitlab pages和gitlab ci自动构建，每次提交就会自动构建部署。</p>
@@ -2963,13 +2892,7 @@ tasks.json文件：
             <link>https://srtb.cc/software/ward/</link>
             <guid isPermaLink="false">https://srtb.cc/software/ward/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[ward快速开始
- 说明
-在Debain12下测试使用成功，其他发行版及系统仅供参考。
- 下载
-下载链接
-```shell
-wget https://github.com/AntonyLeons/Wa]]></description>
+            <description><![CDATA[服务器状态展示面板]]></description>
             <content:encoded><![CDATA[<h1 id="ward快速开始" tabindex="-1">ward快速开始 <a class="header-anchor" href="#ward快速开始" aria-label="Permalink to &quot;ward快速开始&quot;"></a></h1>
 <h2 id="说明" tabindex="-1">说明 <a class="header-anchor" href="#说明" aria-label="Permalink to &quot;说明&quot;"></a></h2>
 <p>在Debain12下测试使用成功，其他发行版及系统仅供参考。</p>
@@ -3053,18 +2976,7 @@ wget https://github.com/AntonyLeons/Wa]]></description>
             <link>https://srtb.cc/software/zsh/</link>
             <guid isPermaLink="false">https://srtb.cc/software/zsh/</guid>
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[zsh快速开始
- 安装
- Arch
-```shell
-sudo pacman -S zsh
-```
- Debian
-```shell
-sudo apt install zsh
-```
- 配置
- 安装O]]></description>
+            <description><![CDATA[一个shell]]></description>
             <content:encoded><![CDATA[<h1 id="zsh快速开始" tabindex="-1">zsh快速开始 <a class="header-anchor" href="#zsh快速开始" aria-label="Permalink to &quot;zsh快速开始&quot;"></a></h1>
 <h2 id="安装" tabindex="-1">安装 <a class="header-anchor" href="#安装" aria-label="Permalink to &quot;安装&quot;"></a></h2>
 <h3 id="arch" tabindex="-1">Arch <a class="header-anchor" href="#arch" aria-label="Permalink to &quot;Arch&quot;"></a></h3>
